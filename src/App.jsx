@@ -4,7 +4,9 @@ export default function App() {
   return (
     <div className="h-screen grid place-items-center">
       <article className="prose">
-        <h1>typography example</h1>
+        <h1>
+          <button className="btn btn-primary">daisyui</button>
+        </h1>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero quidem
           repellat, beatae delectus nam deleniti mollitia sed qui. Obcaecati
